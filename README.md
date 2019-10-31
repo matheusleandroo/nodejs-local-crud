@@ -55,4 +55,4 @@ Now you can use your REST API Client to test "**NodeJS Local CRUD**".
 
 This project is licensed under the MIT License - see the <a href="https://github.com/matheusleandroo/nodejs-local-crud/blob/master/LICENSE">LICENSE.md</a> file for details.
 
-Based on <a href="https://rocketseat.com.br/starter">Starter Rocketseat</a> :rocket:
+Based on <a href="https://rocketseat.com.br/bootcamp">Rocketseat Bootcamp</a> :rocket:
