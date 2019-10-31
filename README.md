@@ -1,6 +1,6 @@
-# Bootcamp GoStack 0.9 - Challeng 01
+# NodeJS Local CRUD
 
-A simple project based on Bootcamp GoStack 0.9 - Challeng 01
+A simple project to have a local CRUD API with nodejs.
 
 <h3>Getting Started</h3>
 
@@ -10,13 +10,19 @@ These instructions will get you a copy of the project up and running on your loc
 
 <h4>NodeJS</h4>
 
-You need to install NodeJS on your computer before you can use "**Bootcamp GoStack 0.9 - Challeng 01**". You can install NodeJS by following <a href="https://nodejs.org/en/download/package-manager/">these instructions</a>.
+You need to install NodeJS on your computer before you can use "**NodeJS Local CRUD**". You can install NodeJS by following <a href="https://nodejs.org/en/download/package-manager/">these instructions</a>.
 
 Once you have completed the installation process, try typing **```npm -v```** into your command line. You should get a response with the version of NodeJS.
 
+<h4>Yarn</h4>
+
+Once you have NodeJs instaled, you need to install Yarn. You can install Yarn by following <a href="https://yarnpkg.com/en/docs/getting-started">these instructions</a>.
+
+After instalition, try typing **```yarn -v```** into your command line. You should get a response with the version of Yarn.
+
 <h4>REST API Client</h4>
 
-Finally, you will need a rest api client to test "**Bootcamp GoStack 0.9 - Challeng 01**". Examples:
+Finally, you will need a rest api client to test "**NodeJS Local CRUD**". Examples:
 
 <ul>
   <li><a href="https://insomnia.rest/">Insomnia</a></li>
@@ -26,11 +32,12 @@ Finally, you will need a rest api client to test "**Bootcamp GoStack 0.9 - Chall
 
 <h3>Deploy</h3>
 
-After clone repository, run **```npm i```** to install dependencies and run **```nodemon```** to start de aplication.
+After clone repository, go to folder and follow this steps:
 
-<i>If you don't have nodemon installed, run **```npm install nodemon -g```**.</i>
+- Run **`yarn`** to install dependencies;
+- Run **`yarn dev`** to start de aplication.
 
-Now you can use your REST API Client to test "**Bootcamp GoStack 0.9 - Challeng 01**".
+Now you can use your REST API Client to test "**NodeJS Local CRUD**".
 
 <h3>Built With</h3>
 
@@ -46,4 +53,6 @@ Now you can use your REST API Client to test "**Bootcamp GoStack 0.9 - Challeng 
 
 <h3>License</h3>
 
-This project is licensed under the MIT License - see the <a href="https://github.com/matheusleandroo/rocketseat-bootcamp-gostack09-challeng01/blob/master/LICENSE">LICENSE.md</a> file for details
+This project is licensed under the MIT License - see the <a href="https://github.com/matheusleandroo/nodejs-local-crud/blob/master/LICENSE">LICENSE.md</a> file for details.
+
+Based on <a href="https://rocketseat.com.br/starter">Starter Rocketseat</a> :rocket:
