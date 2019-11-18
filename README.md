@@ -49,7 +49,7 @@ Now you can use your REST API Client to test "**NodeJS Local Storage**".
 <h3>Authors</h3>
 
 <ul>
-  <li>Matheus Leandro</li>
+  <li><a href="http://matheusleandro.com">Matheus Leandro</a></li>
 </ul>
 
 <h3>License</h3>
